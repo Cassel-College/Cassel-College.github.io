@@ -1,32 +1,32 @@
 - name: bilibili
-  url: https://bilibili.com
+  url: 
 
 - name: facebook
-  url: https://facebook.com
+  url: 
 
 - name: github
   url: https://github.com
 
 - name: gplus
-  url: https://gplus.com
+  url: 
 
 - name: instagram
-  url: https://instagram.com
+  url: 
 
 - name: linkedin
-  url: https://linkedin.com
+  url: 
 
 - name: telegram
   url: https://web.telegram.org
 
 - name: tumblr
-  url: https://tumblr.com
+  url: 
 
 - name: twitter
   url: https://twitter.com/
 
 - name: weibo
-  url: https://weibo.com
+  url: 
 
 - name: zhihu
-  url: https://zhihu.com
+  url: 
