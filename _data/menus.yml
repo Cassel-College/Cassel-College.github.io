@@ -11,7 +11,7 @@
   url: /love/
   icon: "&#xe87d;"
   color: "red"
-- name: FRIENDS
+- name: MEMBERS
   url: /friends/
   icon: "&#xe8a3;"
 - name: EDITOR
